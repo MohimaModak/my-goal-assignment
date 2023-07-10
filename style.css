@@ -39,6 +39,8 @@
     color: aliceblue;
     padding: 12px 25px;
     border-radius: 5px;
+    cursor: pointer;
+
 }
 
 .first-part-two img {
@@ -141,6 +143,10 @@
     padding-bottom: 15px;
 }
 
+.third-part-1 h2 span {
+    color: rgb(247, 73, 125);
+}
+
 .third-part-1 p {
     font-size: 13px;
     color: rgb(148, 144, 144);
@@ -157,6 +163,7 @@
     border-radius: 5px;
     position: relative;
     left: 35%;
+    cursor: pointer;
 }
 
 .third-part-2 {
@@ -238,4 +245,41 @@
     padding: 12px 25px;
     border-radius: 5px;
     margin-left: 5px;
+    cursor: pointer;
+
+}
+
+.sixth-part {
+    padding: 40px 130px;
+    text-align: center;
+    background-color: rgb(255, 221, 226);
+    background: linear-gradient(rgb(247, 219, 223), white, rgb(222, 244, 250));
+    margin-top: 5em;
+}
+
+.sixth-part h1 {
+    padding: 1.5em;
+    color: rgb(247, 75, 127);
+}
+
+.sixth-part ion-icon {
+    color: rgb(247, 75, 127);
+    font-weight: bolder;
+}
+
+.sixth-part li {
+    list-style: none;
+    font-size: 1.2em;
+    text-align: left;
+    position: relative;
+    left: 20%;
+}
+.sixth-part button {
+    background-color: rgb(255, 103, 149);
+    border: none;
+    color: aliceblue;
+    padding: 12px 25px;
+    border-radius: 5px;
+    margin-top: 2em;
+    cursor: pointer;
 }
