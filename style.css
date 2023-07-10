@@ -274,6 +274,7 @@
     position: relative;
     left: 20%;
 }
+
 .sixth-part button {
     background-color: rgb(255, 103, 149);
     border: none;
@@ -282,4 +283,34 @@
     border-radius: 5px;
     margin-top: 2em;
     cursor: pointer;
+}
+
+.seventh-part {
+    padding: 70px 130px;
+    text-align: center;
+    background-color: black;
+    margin-top: 4.5em;
+}
+
+.seventh-part h2 {
+    font-size: 1.8em;
+    padding-bottom: 15px;
+    color: rgb(240, 239, 239);
+}
+
+.seventh-part span {
+    color: rgb(247, 73, 125);
+}
+
+.seventh-part p {
+    font-size: 13px;
+    color: rgb(194, 187, 187);
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.seventh-part p.footer {
+    color: rgb(139, 129, 129);
+    font-size: 11px;
 }
