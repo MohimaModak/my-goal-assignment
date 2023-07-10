@@ -14,7 +14,8 @@
     padding: 40px 130px;
     align-items: center;
 }
-.first-part-one{
+
+.first-part-one {
     position: relative;
     top: 2em;
 }
@@ -24,21 +25,95 @@
     padding-bottom: 20px;
     color: rgb(46, 45, 45);
 }
-.first-part-one p{
+
+.first-part-one p {
     font-size: 13px;
     color: grey;
     font-family: 'Roboto', sans-serif;
     padding-bottom: 20px;
 }
-.first-part-one button{
+
+.first-part-one button {
     background-color: rgb(228, 33, 91);
     border: none;
     color: aliceblue;
     padding: 12px 25px;
     border-radius: 5px;
 }
-.first-part-two img{
+
+.first-part-two img {
     position: relative;
     top: 2.7em;
     left: 15%;
+}
+
+.second-part {
+    text-align: center;
+    padding: 40px 130px;
+    margin-top: 3em;
+}
+
+.second-part-pro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.second-part h2 {
+    padding: 15px;
+    color: rgb(46, 45, 45);
+    font-size: 2em;
+}
+
+.second-part p {
+    font-size: 12px;
+    color: grey;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 20px;
+}
+
+.second-part-pro .second-box-1 img {
+    background-color: rgb(253, 236, 236);
+    padding: 30px 40px;
+    border-radius: 150px 150px 0px 0px;
+    padding-bottom: 1px;
+    position: relative;
+    bottom: 15px;
+}
+
+.second-part-pro .second-box-2 img {
+    background-color: rgb(229, 250, 253);
+    padding: 25px 25px;
+    border-radius: 150px 150px 0px 0px;
+    position: relative;
+    bottom: 15px;
+}
+
+.second-part-pro .second-box-3 img {
+    background-color: rgb(226, 247, 218);
+    padding: 30px 40px;
+    border-radius: 140px 140px 0px 0px;
+    padding-bottom: 1px;
+    position: relative;
+    bottom: 28px;
+}
+.second-part-pro .second-box-2 h4 {
+    position: relative;
+    left: 34%;
+}
+
+.second-part-pro .second-box-3 h4 {
+    position: relative;
+    bottom: 1.1em;
+}
+.second-part-pro h4{
+    border-bottom: 2px solid rgb(71, 70, 70);
+    width: 125px;
+    text-align: center;
+    position: relative;
+    left: 30%;
+}
+.second-part-pro h4{
+    color: rgb(46, 45, 45);
+
 }
