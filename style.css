@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.first {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 241, 241);
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 130px;
+    align-items: center;
+}
+.first-part-one{
+    position: relative;
+    top: 2em;
+}
+
+.first-part-one h1 {
+    font-size: 3em;
+    padding-bottom: 20px;
+    color: rgb(46, 45, 45);
+}
+.first-part-one p{
+    font-size: 13px;
+    color: grey;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 20px;
+}
+.first-part-one button{
+    background-color: rgb(228, 33, 91);
+    border: none;
+    color: aliceblue;
+    padding: 12px 25px;
+    border-radius: 5px;
+}
+.first-part-two img{
+    position: relative;
+    top: 2.7em;
+    left: 15%;
+}
