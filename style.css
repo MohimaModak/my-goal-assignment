@@ -260,6 +260,7 @@
 .sixth-part h1 {
     padding: 1.5em;
     color: rgb(247, 75, 127);
+    background-color: white;
 }
 
 .sixth-part ion-icon {
@@ -278,7 +279,7 @@
 .sixth-part button {
     background-color: rgb(255, 103, 149);
     border: none;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     padding: 12px 25px;
     border-radius: 5px;
     margin-top: 2em;
